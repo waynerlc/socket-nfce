@@ -1,0 +1,22 @@
+{
+  "name": "socket-nfce",
+  "version": "0.0.1",
+  "description": "socket-nfce ===========",
+  "main": "init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/waynerlc/socket-nfce"
+  },
+  "keywords": [
+    "nfce"
+  ],
+  "author": "Wayner Coelho <waynerlc@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/waynerlc/socket-nfce/issues"
+  },
+  "homepage": "https://github.com/waynerlc/socket-nfce"
+}
